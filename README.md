@@ -1,7 +1,10 @@
-<!-- Wavy Header -->
+<!-- Header with Wave -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hi%20👋,%20I'm%20Pratik%20Rajendra%20Nikam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-<h3 align="center">🚀 Full Stack Developer | ☁️ Cloud Enthusiast | 🧩 Problem Solver</h3>
+<!-- Typing Animation -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;☁️+Cloud+Enthusiast;🧩+Problem+Solver;🎯+Always+Learning+New+Things" />
+</h2>
 
 ---
 
@@ -23,7 +26,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratiknikam9096&show_icons=true&theme=radical" height="180" />
@@ -44,6 +47,25 @@
 
 ---
 
+## 🚀 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/pratiknikam9096/CollabCraft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratiknikam9096&repo=CollabCraft&theme=radical" />
+  </a>
+  <a href="https://github.com/pratiknikam9096/Divya-Color-Home">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratiknikam9096&repo=Divya-Color-Home&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 📈 Activity Graph  
+
+[![Pratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratiknikam9096&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🌍 Connect with Me  
 
 <p align="center">
@@ -54,11 +76,23 @@
 
 ---
 
+## 🎭 Dev Quote  
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ## ⚡ Fun Fact  
 
 💻 I love to automate boring tasks,  
 🎶 Code while vibing to lo-fi beats,  
 🌍 Dreaming of **building something impactful for millions**.  
+
+---
+
+## 🐍 Contribution Snake  
+
+![snake gif](https://github.com/pratiknikam9096/pratiknikam9096/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
