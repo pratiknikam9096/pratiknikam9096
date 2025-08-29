@@ -1,73 +1,66 @@
-<h1 align="center">Hi 👋, I'm Pratik Rajendra Nikam</h1>
-<h3 align="center">🚀 Full Stack Developer | Cloud Enthusiast | Problem Solver</h3>
+<!-- Wavy Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hi%20👋,%20I'm%20Pratik%20Rajendra%20Nikam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+
+<h3 align="center">🚀 Full Stack Developer | ☁️ Cloud Enthusiast | 🧩 Problem Solver</h3>
+
+---
+
+## 🌟 About Me  
+
+💡 I’m a **creative problem solver** passionate about designing, building, and scaling full-stack applications.  
+🌱 Currently diving deeper into **AWS, Docker, and Cloud-Native Practices**.  
+👨‍💻 Check out my portfolio: [nikampratikportfolio.netlify.app](https://nikampratikportfolio.netlify.app/)  
+💬 Ask me about **MERN stack, scalable APIs, cloud adoption, real-time apps**.  
+🚀 I thrive in **hackathons, open-source projects, and tech communities**.  
+
+---
+
+## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratiknikam9096&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,cpp,mongodb,mysql,postgres,aws,gcp,docker,jenkins,linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratiknikam9096&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiknikam9096&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=pratiknikam9096&theme=radical" target="_blank" rel="noopener">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratiknikam9096&theme=radical" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratiknikam9096&theme=radical" height="180" />
 </p>
 
 ---
 
-🌟 **About Me**
+## 🏆 Achievements  
 
-- 💡 **Creative problem solver** excited by challenging full stack projects—from design to deployment.
-- 🌱 Currently learning **AWS, Docker, and advanced cloud-native practices**.
-- 👨‍💻 See my work: [Portfolio](https://nikampratikportfolio.netlify.app/)
-- 💬 Ask me about **MERN stack, scalable APIs, cloud adoption, and real-time web apps**.
-- 📈 Passionate about delivering both technical excellence and intuitive user experiences.
-- 🚀 I love hackathons, open-source, and building things that matter.
-
----
-
-<h3 align="left">🛠️ Languages & Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="35" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="35" />
-</p>
-
----
-
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nikam-p-86576a239" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://leetcode.com/endisnotdestiny9822/" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiknikam9096&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pratiknikam9096&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratiknikam9096&" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pratiknikam9096&theme=radical&margin-w=15&margin-h=15&column=7" />
 </p>
 
 ---
 
+## 🌍 Connect with Me  
 
+<p align="center">
+  <a href="https://linkedin.com/in/nikam-p-86576a239" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://leetcode.com/endisnotdestiny9822/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+  <a href="mailto:pratiknikam9096@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+
+💻 I love to automate boring tasks,  
+🎶 Code while vibing to lo-fi beats,  
+🌍 Dreaming of **building something impactful for millions**.  
+
+---
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer)
