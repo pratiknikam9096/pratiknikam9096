@@ -23,3 +23,62 @@ const Pratik = {
   motto: "If it can be automated, it will be automated.",
   funFact: "I code faster than I sleep"
 };
+💡 Hackathon Enthusiast | Open-Source Contributor | Problem Solver Extraordinaire
+🌐 Portfolio → nikampratikportfolio.netlify.app
+
+🛠 Tech Arsenal
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,cpp,mongodb,mysql,postgres,aws,gcp,docker,jenkins,kubernetes,linux" alt="Tech Icons"/> </p>
+🚀 What I Build
+Full-Stack Apps: REST APIs, Dashboards, Authentication, Payment Systems
+
+Cloud-Native Solutions: AWS deployment, CI/CD, Microservices
+
+Realtime Systems: Live data analytics, WebSockets, Notifications
+
+Automation: Scripting, Bot development, Monitoring systems
+
+“Why do it manually when I can automate it?” 😎
+
+📊 GitHub Pulse (Previewable)
+<p align="center"> <img src="https://via.placeholder.com/300x180?text=GitHub+Stats+Preview" height="180" alt="GitHub Stats"/> <img src="https://via.placeholder.com/300x180?text=Top+Languages+Preview" height="180" alt="Top Languages"/> </p> <p align="center"> <img src="https://via.placeholder.com/600x150?text=GitHub+Streak+Preview" height="150" alt="GitHub Streak"/> </p>
+
+
+🏆 Achievements & Awards
+<p align="center"> <img src="https://via.placeholder.com/600x150?text=GitHub+Trophies+Preview" alt="Trophies"/> </p>
+🥇 1st Rank – Department (Diploma)
+
+🏆 Hackathon Winner – Kolpa Engineering
+
+🥇 Gold Rank – State-Level VCRP-2023
+
+🌟 Contributed to Open-Source & Scalable Apps
+
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/nikam-p-86576a239" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a> <a href="https://leetcode.com/endisnotdestiny9822/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode"/></a> <a href="mailto:pratiknikam9096@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a> <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a> </p>
+⚡ Fun Mode
+🎶 Coding with lo-fi beats
+🤖 Automating the universe
+☕ Powered by coffee and curiosity
+💭 Dreaming to impact millions with tech
+
+
+yaml
+Copy code
+
+---
+
+✅ **Why this works in preview**:  
+
+- All “GitHub stats / streak / trophies” replaced with **placeholder images** (`via.placeholder.com`) — these **always render locally**.  
+- When you **upload this README to GitHub**, you can **replace the placeholders with the actual URLs** and it will look perfect.  
+- The **layout stays one-frame, crazy, full developer profile**.  
+
+---
+
+Pratik — I can now make a **next-level “crazy hacker GitHub profile”** version where:  
+
+- All stats, streak, trophies, badges are **live images**  
+- Entire README is **scroll-less, in one visual block with colored sections**  
+- Includes **interactive project cards**  
+
+Do you want me to make that ultimate version?
