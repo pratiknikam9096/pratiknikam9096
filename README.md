@@ -1,84 +1,62 @@
-<!-- ================= HERO HEADER ================= -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=👨‍💻%20Pratik%20Rajendra%20Nikam%20|%20Code+Ninja&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40)
+👋 Hi, I’m Pratik Nikam
 
-<h3 align="center">
-💻 Full Stack Developer | ☁️ Cloud Hacker | 🚀 System Architect
-</h3>
+Full Stack Developer | Java & MERN | Cloud & Automation
+📍 Pune, India
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=500&color=0E75B6&width=700&lines=I+Build+Crazy+Apps+%7C+Automate+Boring+Stuff;Cloud+%7C+Docker+%7C+Kubernetes;Hackathons+Are+My+Playground;Coding+Till+Sunrise" alt="Typing SVG"/>
-</p>
+I’m a Full Stack Developer with 3+ years of experience building scalable web applications, REST APIs, and cloud-ready systems. I enjoy solving real-world problems, improving system reliability, and automating repetitive workflows.
 
----
+🧑‍💻 About Me
 
-## 🧠 About Me
+💼 Full Stack Developer (Java, MERN)
 
-```ts
-const Pratik = {
-  role: "Full Stack Developer",
-  location: "Pune, India 🇮🇳",
-  experience: "3+ Years",
-  specialties: ["MERN Stack", "Cloud-Native Apps", "Real-Time Systems", "Automation"],
-  currentlyLearning: ["AWS", "Docker", "Kubernetes", "System Design"],
-  motto: "If it can be automated, it will be automated.",
-  funFact: "I code faster than I sleep"
-};
-💡 Hackathon Enthusiast | Open-Source Contributor | Problem Solver Extraordinaire
-🌐 Portfolio → nikampratikportfolio.netlify.app
+☁️ Learning & working with Cloud and DevOps tools
 
-🛠 Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,cpp,mongodb,mysql,postgres,aws,gcp,docker,jenkins,kubernetes,linux" alt="Tech Icons"/> </p>
-🚀 What I Build
-Full-Stack Apps: REST APIs, Dashboards, Authentication, Payment Systems
+🔧 Experience in application support, monitoring & automation
 
-Cloud-Native Solutions: AWS deployment, CI/CD, Microservices
+🧠 Strong in problem-solving and system understanding
 
-Realtime Systems: Live data analytics, WebSockets, Notifications
+🤝 Open to collaboration and learning new technologies
 
-Automation: Scripting, Bot development, Monitoring systems
+🛠️ Tech Stack
 
-“Why do it manually when I can automate it?” 😎
+Languages
+Java · JavaScript · TypeScript · Python · C++
 
-📊 GitHub Pulse (Previewable)
-<p align="center"> <img src="https://via.placeholder.com/300x180?text=GitHub+Stats+Preview" height="180" alt="GitHub Stats"/> <img src="https://via.placeholder.com/300x180?text=Top+Languages+Preview" height="180" alt="Top Languages"/> </p> <p align="center"> <img src="https://via.placeholder.com/600x150?text=GitHub+Streak+Preview" height="150" alt="GitHub Streak"/> </p>
+Frontend
+React · HTML · CSS · Tailwind
 
+Backend
+Node.js · Express · REST APIs · Microservices
 
-🏆 Achievements & Awards
-<p align="center"> <img src="https://via.placeholder.com/600x150?text=GitHub+Trophies+Preview" alt="Trophies"/> </p>
+Databases
+MySQL · PostgreSQL · MongoDB
+
+Cloud & DevOps
+AWS · Docker · Jenkins · Linux · GitHub Actions
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pratiknikam9096&show_icons=true&theme=default&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiknikam9096&layout=compact&theme=default&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=pratiknikam9096&theme=default&hide_border=true" height="150"/> </p>
+🏆 Highlights
+
 🥇 1st Rank – Department (Diploma)
 
 🏆 Hackathon Winner – Kolpa Engineering
 
-🥇 Gold Rank – State-Level VCRP-2023
+⭐ Active contributor to projects and problem solving
 
-🌟 Contributed to Open-Source & Scalable Apps
+💼 3+ years of industry experience
 
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/nikam-p-86576a239" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a> <a href="https://leetcode.com/endisnotdestiny9822/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode"/></a> <a href="mailto:pratiknikam9096@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a> <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a> </p>
-⚡ Fun Mode
-🎶 Coding with lo-fi beats
-🤖 Automating the universe
-☕ Powered by coffee and curiosity
-💭 Dreaming to impact millions with tech
+🔗 Connect With Me
+<p align="left"> <a href="https://linkedin.com/in/nikam-p-86576a239" target="_blank">LinkedIn</a> • <a href="https://leetcode.com/endisnotdestiny9822/" target="_blank">LeetCode</a> • <a href="mailto:pratiknikam9096@gmail.com">Email</a> </p>
 
+⭐ Thanks for visiting my profile. Feel free to check out my repositories.
 
-yaml
-Copy code
+✅ Why this is a good casual profile
 
----
+Clean & readable (recruiter-friendly)
 
-✅ **Why this works in preview**:  
+No heavy animations or clutter
 
-- All “GitHub stats / streak / trophies” replaced with **placeholder images** (`via.placeholder.com`) — these **always render locally**.  
-- When you **upload this README to GitHub**, you can **replace the placeholders with the actual URLs** and it will look perfect.  
-- The **layout stays one-frame, crazy, full developer profile**.  
+Live GitHub stats (safe + stable)
 
----
-
-Pratik — I can now make a **next-level “crazy hacker GitHub profile”** version where:  
-
-- All stats, streak, trophies, badges are **live images**  
-- Entire README is **scroll-less, in one visual block with colored sections**  
-- Includes **interactive project cards**  
-
-Do you want me to make that ultimate version?
+Professional tone, not overhyped
